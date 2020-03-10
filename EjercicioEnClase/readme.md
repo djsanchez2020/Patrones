@@ -1,0 +1,3 @@
+<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Implementacin_patrones_de_creacin_Abstract_Factory_y_patron_estructural_Adapter_0"></a>Implementación patrones de creación (Abstract Factory) y patron estructural (Adapter)</h1>
+<p class="has-line-data" data-line-start="2" data-line-end="3">Ejercicio propuesto en clase donde se implementa el patron de creación (Abstract Factory) para la definición de varios medios de transporte y el patron estructural (Adapter).</p>
+<p class="has-line-data" data-line-start="4" data-line-end="5">Daniel Julian Sanchez Alvarez</p>
